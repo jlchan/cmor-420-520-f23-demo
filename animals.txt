@@ -4,3 +4,8 @@
 Husky
 Labrador
 German shepherd
+
+----- Lizards -----
+
+Axolotl
+Iguana
