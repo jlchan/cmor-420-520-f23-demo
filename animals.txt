@@ -10,3 +10,10 @@ German shepherd
 Siamese
 Tabby
 ???
+
+----- Lizards -----
+
+Axolotl
+Iguana
+Green
+Poisonous?
