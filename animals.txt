@@ -18,3 +18,10 @@ Axolotl
 Iguana
 Green
 Poisonous?
+Blue
+
+----- Bears -----
+
+Black
+Brown
+Sun
